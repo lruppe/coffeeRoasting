@@ -72,9 +72,3 @@ counter=0;
 //  delay(power*10);
 //  digitalWrite(6,LOW);
 //  delay(1000-power*10);
-        
-     
-         
-         
-        
-
